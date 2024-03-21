@@ -1,0 +1,16 @@
+S,Orange
+S,Green
+S,Green
+S,Violet
+S,Blue
+S,Violet
+M,Orange
+M,Green
+M,Blue
+M,Red
+L,Yellow
+L,Red
+L,Orange
+L,Green
+L,Red
+L,Violet
